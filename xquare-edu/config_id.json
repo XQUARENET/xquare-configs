@@ -1,0 +1,540 @@
+{
+    "HorizonLayout": [
+        {
+            "layout": "logo",
+            "opacity": 1,
+            "iconSize": 24,
+            "logoSize": 50,
+            "menuIcon": {
+                "name": "blur_on",
+                "fontFamily": "MaterialIcons"
+            },
+            "showCart": false,
+            "showLogo": true,
+            "showMenu": true,
+            "iconRadius": 6,
+            "showSearch": true,
+            "iconOpacity": 0,
+            "showBadgeCart": false,
+            "iconSpreadRadius": 0,
+            "showNotification": true
+        },
+        {
+            "color": "FFBDBDBD",
+            "indent": 5,
+            "layout": "divider",
+            "endIndent": 5,
+            "thickness": 1.5
+        },
+        {
+            "text": "Search course here",
+            "height": 41,
+            "layout": "header_search",
+            "radius": 16,
+            "shadow": 10,
+            "padding": 16,
+            "fontSize": 20,
+            "boxShadow": {
+                "x": 0,
+                "y": 9,
+                "blurRadius": 15.151515151515152,
+                "colorOpacity": 0.05,
+                "spreadRadius": 8.080808080808081
+            },
+            "marginTop": 0,
+            "marginLeft": 20,
+            "showShadow": true,
+            "borderInput": false,
+            "marginRight": 20,
+            "textOpacity": 1,
+            "marginBottom": 0,
+            "backgroundColor": "#FFFFFF"
+        },
+        {
+            "size": 1.2,
+            "type": "text",
+            "wrap": false,
+            "items": [
+                {
+                    "tag": null,
+                    "name": null,
+                    "image": "https://user-images.githubusercontent.com/1459805/62820029-2e679f00-bb88-11e9-80de-fdf115cfd942.png",
+                    "order": null,
+                    "title": "👨‍🏫 Business Comunication",
+                    "colors": [
+                        "ff3cc2bf",
+                        "ff3cc2bf"
+                    ],
+                    "onSale": false,
+                    "orderby": null,
+                    "category": "26",
+                    "featured": false,
+                    "showText": null,
+                    "description": "",
+                    "productType": false,
+                    "originalColor": false,
+                    "backgroundColor": null,
+                    "showDescription": true,
+                    "keepDefaultTitle": true,
+                    "productListAnimationConfig": null
+                },
+                {
+                    "tag": null,
+                    "name": null,
+                    "image": "https://trello.com/1/cards/60a62a9bca5053572a669dee/attachments/60a62abe90c0ae5f16645cbe/previews/60a62abe90c0ae5f16645cc3/download/ic_glasses.png",
+                    "order": null,
+                    "title": "💼 Business Process",
+                    "colors": [
+                        "ff53688a",
+                        "ff53688a"
+                    ],
+                    "onSale": false,
+                    "orderby": null,
+                    "category": "37",
+                    "featured": false,
+                    "showText": null,
+                    "description": "",
+                    "productType": false,
+                    "originalColor": false,
+                    "backgroundColor": null,
+                    "showDescription": true,
+                    "keepDefaultTitle": true,
+                    "productListAnimationConfig": null
+                },
+                {
+                    "tag": null,
+                    "name": null,
+                    "image": "https://trello.com/1/cards/60a62a9bca5053572a669dee/attachments/60a62abccf14cb63646c1706/previews/60a62abdcf14cb63646c1728/download/ic_dress.png",
+                    "order": null,
+                    "title": "📙 Course Development",
+                    "colors": [
+                        "ff3e6ab5",
+                        "ff3e6ab5"
+                    ],
+                    "onSale": false,
+                    "orderby": null,
+                    "category": "163",
+                    "featured": false,
+                    "showText": null,
+                    "description": "",
+                    "productType": false,
+                    "originalColor": false,
+                    "backgroundColor": null,
+                    "showDescription": true,
+                    "keepDefaultTitle": true,
+                    "productListAnimationConfig": null
+                },
+                {
+                    "tag": null,
+                    "name": null,
+                    "image": "https://trello.com/1/cards/60a62a9bca5053572a669dee/attachments/60a62ac048c3790a65a5f75f/previews/60a62ac048c3790a65a5f763/download/ic_panties.png",
+                    "order": null,
+                    "title": "✍ Bunsiness Writing",
+                    "colors": [
+                        "ff12b58c",
+                        "ff12b58c"
+                    ],
+                    "onSale": false,
+                    "orderby": null,
+                    "category": "43",
+                    "featured": false,
+                    "showText": null,
+                    "description": "",
+                    "productType": false,
+                    "originalColor": false,
+                    "backgroundColor": null,
+                    "showDescription": true,
+                    "keepDefaultTitle": true,
+                    "productListAnimationConfig": null
+                },
+                {
+                    "tag": null,
+                    "name": null,
+                    "image": "https://trello.com/1/cards/60a62a9bca5053572a669dee/attachments/60a62ac38749561a23fed73c/previews/60a62ac38749561a23fed76d/download/ic_shorts.png",
+                    "order": null,
+                    "title": "☎ Customer Care",
+                    "colors": [
+                        "ff53a2cc",
+                        "ff53a2cc"
+                    ],
+                    "onSale": false,
+                    "orderby": null,
+                    "category": "48",
+                    "featured": false,
+                    "showText": null,
+                    "description": "",
+                    "productType": false,
+                    "originalColor": false,
+                    "backgroundColor": null,
+                    "showDescription": true,
+                    "keepDefaultTitle": true,
+                    "productListAnimationConfig": null
+                },
+                {
+                    "tag": null,
+                    "name": null,
+                    "image": "https://trello.com/1/cards/60a62a9bca5053572a669dee/attachments/60a62ac568d4170599acd4ca/previews/60a62ac568d4170599acd4dd/download/ic_tie.png",
+                    "order": null,
+                    "title": "💻 IT Skills",
+                    "colors": [
+                        "ff43506a",
+                        "ff43506a"
+                    ],
+                    "onSale": false,
+                    "orderby": null,
+                    "category": "242",
+                    "featured": false,
+                    "showText": null,
+                    "description": "",
+                    "productType": false,
+                    "originalColor": false,
+                    "backgroundColor": null,
+                    "showDescription": true,
+                    "keepDefaultTitle": true,
+                    "productListAnimationConfig": null
+                },
+                {
+                    "tag": null,
+                    "name": null,
+                    "image": null,
+                    "order": null,
+                    "title": "💂‍♂️ Leadership",
+                    "colors": [
+                        "ff333333"
+                    ],
+                    "onSale": false,
+                    "orderby": null,
+                    "category": "69",
+                    "featured": false,
+                    "showText": null,
+                    "description": "",
+                    "productType": false,
+                    "originalColor": true,
+                    "backgroundColor": null,
+                    "showDescription": true,
+                    "keepDefaultTitle": true,
+                    "productListAnimationConfig": null
+                },
+                {
+                    "tag": null,
+                    "name": null,
+                    "image": null,
+                    "order": null,
+                    "title": "🐾 Others",
+                    "colors": [
+                        "ff333333"
+                    ],
+                    "onSale": false,
+                    "orderby": null,
+                    "category": "25",
+                    "featured": false,
+                    "showText": null,
+                    "description": "",
+                    "productType": false,
+                    "originalColor": true,
+                    "backgroundColor": null,
+                    "showDescription": true,
+                    "keepDefaultTitle": true,
+                    "productListAnimationConfig": null
+                }
+            ],
+            "layout": "category",
+            "radius": 16,
+            "shadow": null,
+            "columns": null,
+            "marginX": 12,
+            "marginY": 12,
+            "spacing": 12,
+            "paddingX": 12,
+            "paddingY": 12,
+            "hideTitle": false,
+            "marginTop": 10,
+            "marginLeft": 16,
+            "imageBoxFit": "cover",
+            "marginRight": 16,
+            "enableBorder": true,
+            "imageSpacing": 0,
+            "marginBottom": 10,
+            "noBackground": false,
+            "gradientStyle": false,
+            "labelFontSize": 14,
+            "originalColor": false,
+            "separateWidth": 24,
+            "textAlignment": "topLeft",
+            "horizontalItem": false,
+            "animationConfig": null,
+            "enableBackground": null,
+            "enableFilterCategory": false,
+            "productCategoryMenuStyle": "menu"
+        },
+        {
+            "name": "Popular courses",
+            "rows": 1,
+            "layout": "twoColumn",
+            "onSale": false,
+            "columns": 3,
+            "hMargin": 6,
+            "useSort": false,
+            "vMargin": 0,
+            "category": "53",
+            "hPadding": 6,
+            "parallax": false,
+            "vPadding": 2,
+            "hidePrice": false,
+            "hideStore": false,
+            "hideTitle": false,
+            "showHeart": false,
+            "cardDesign": "simpleForWeb",
+            "imageRatio": 1.2,
+            "isSnapping": false,
+            "imageBoxfit": "cover",
+            "borderRadius": 3,
+            "enableRating": true,
+            "showCartIcon": true,
+            "showCategory": false,
+            "showQuantity": false,
+            "showCountDown": false,
+            "showOnlyImage": false,
+            "advancedParams": {},
+            "cartIconRadius": 9,
+            "showCartButton": false,
+            "showStockStatus": true,
+            "backgroundRadius": 10,
+            "enableAutoSliding": false,
+            "showCartIconColor": false,
+            "useCircularRadius": true,
+            "parallaxImageRatio": 1.2,
+            "enableBottomAddToCart": true,
+            "productListItemHeight": 125,
+            "hideEmptyProductLayout": false,
+            "hideEmptyProductListRating": false,
+            "showCartButtonWithQuantity": false
+        }
+    ],
+    "Setting": {
+        "MainColor": "ff673ab7",
+        "FontFamily": "Quicksand",
+        "FontHeader": "Quicksand",
+        "StickyHeader": false,
+        "TabBarConfig": {
+            "color": "ffffffff",
+            "iconSize": 23,
+            "boxShadow": {
+                "x": 0,
+                "y": 0,
+                "blurRadius": 10,
+                "colorOpacity": 0,
+                "spreadRadius": 10
+            },
+            "colorCart": "ff1a237e",
+            "colorIcon": "ffbdbdbd",
+            "marginTop": 0,
+            "isSafeArea": false,
+            "marginLeft": 16.282117555325023,
+            "paddingTop": 16,
+            "marginRight": 16.27814287107473,
+            "paddingLeft": 8.281555121604859,
+            "marginBottom": 0,
+            "paddingRight": 7.837741878217681,
+            "showFloating": false,
+            "paddingBottom": 16,
+            "radiusTopLeft": 24,
+            "TabBarFloating": {
+                "color": null,
+                "width": 56.00000000000001,
+                "height": 56.00000000000001,
+                "radius": 23.921720559976492,
+                "location": "centerDocked",
+                "position": 2,
+                "elevation": null,
+                "floatingType": "rectangle"
+            },
+            "indicatorStyle": "rectangular",
+            "radiusTopRight": 24,
+            "TabBarIndicator": {
+                "color": "ff1a237e",
+                "height": 7.425883188354351,
+                "radius": null,
+                "strokeWidth": 2.2776495650630264,
+                "tabPosition": "bottom",
+                "paintingStyle": "fill",
+                "topLeftRadius": 16,
+                "topRightRadius": 16,
+                "verticalPadding": 0,
+                "bottomLeftRadius": 16,
+                "bottomRightRadius": 16,
+                "horizontalPadding": 15,
+                "distanceFromCenter": null
+            },
+            "colorActiveIcon": "ffe8eaf6",
+            "radiusBottomLeft": 24,
+            "showFloatingClip": true,
+            "radiusBottomRight": 24
+        },
+        "ProductDetail": "simpleType",
+        "ProductListLayout": "list"
+    },
+    "TabBar": [
+        {
+            "key": "znje46",
+            "pos": 100,
+            "icon": "house_alt",
+            "layout": "home",
+            "fontFamily": "CupertinoIcons",
+            "fullscreen": false,
+            "showOriginalColor": false
+        },
+        {
+            "key": "znje46gt",
+            "pos": 300,
+            "url": "https://edu.xquare.net/events/",
+            "icon": "calendar",
+            "title": "Events",
+            "layout": "page",
+            "script": "document.getElementById(\"page\").remove(); document.getElementById(\"masthead\").remove(); document.getElementById(\"site-navigation\").remove(); document.getElementById(\"primary-menu\").remove(); document.getElementById(\"reign-copyright-text\").remove();",
+            "fontFamily": "CupertinoIcons",
+            "fullscreen": false,
+            "showOriginalColor": false
+        },
+        {
+            "key": "UsgZAjZjVd",
+            "url": "https://edu.xquare.net/portal/",
+            "icon": "https://xquare.net/wp-content/uploads/2025/06/Discuss.png",
+            "title": "Discuss",
+            "layout": "page",
+            "fullscreen": false,
+            "showOriginalColor": false
+        },
+        {
+            "key": "znje46g",
+            "pos": 200,
+            "url": "https://edu.xquare.net/courses/",
+            "icon": "book",
+            "title": "Courses",
+            "layout": "page",
+            "script": "document.getElementById(\"\").remove(); document.getElementById(\"page\").remove(); document.getElementById(\"masthead\").remove(); document.getElementById(\"site-navigation\").remove(); document.getElementById(\"primary-menu\").remove();",
+            "defaultTab": true,
+            "fontFamily": "CupertinoIcons",
+            "fullscreen": false,
+            "showOriginalColor": false
+        },
+        {
+            "key": "oLKtYWWdVN",
+            "icon": "https://xquare.net/wp-content/uploads/2025/06/Blog.png",
+            "layout": "list-blog",
+            "fullscreen": false,
+            "showOriginalColor": false
+        },
+        {
+            "key": "znje46gthd",
+            "pos": 400,
+            "icon": "person",
+            "label": null,
+            "layout": "profile",
+            "settings": null,
+            "background": null,
+            "fontFamily": "CupertinoIcons"
+        }
+    ],
+    "AppBar": null,
+    "VerticalLayout": {
+        "key": "znje46gthd",
+        "name": "Your courses",
+        "page": 3,
+        "layout": "list",
+        "isVertical": true
+    },
+    "Drawer": {
+        "logo": null,
+        "items": [
+            {
+                "show": true,
+                "type": "home"
+            },
+            {
+                "show": true,
+                "type": "blog"
+            },
+            {
+                "show": true,
+                "type": "web-xBEarDrHXY"
+            },
+            {
+                "show": true,
+                "type": "web-tfriQOTMxt"
+            },
+            {
+                "show": true,
+                "type": "login"
+            },
+            {
+                "show": false,
+                "type": "category"
+            },
+            {
+                "show": false,
+                "type": "categories"
+            },
+            {
+                "show": false,
+                "type": "cart"
+            },
+            {
+                "show": false,
+                "type": "profile"
+            }
+        ],
+        "enable": true,
+        "filter": 0,
+        "logoDark": null,
+        "safeArea": false,
+        "iconColor": null,
+        "textColor": null,
+        "logoConfig": {
+            "boxFit": "cover",
+            "height": 38,
+            "marginTop": 60,
+            "marginLeft": 5,
+            "marginRight": 0,
+            "marginBottom": 10
+        },
+        "zoomConfig": null,
+        "colorFilter": null,
+        "subDrawerItem": {
+            "web-tfriQOTMxt": {
+                "id": "web-12",
+                "icon": "calendar_badge_plus",
+                "title": "Event Dashboard",
+                "webUrl": "https://edu.xquare.net/event-dashboard/",
+                "buttons": [],
+                "enableClose": true,
+                "webViewMode": true,
+                "bannerHeight": 15,
+                "useTabScreen": false,
+                "enableDivider": false,
+                "enableForward": true,
+                "requiredLogin": false,
+                "enableBackward": true,
+                "iconFontFamily": "CupertinoIcons",
+                "buttonAlignment": "centerLeft"
+            },
+            "web-xBEarDrHXY": {
+                "id": "web-12",
+                "icon": "book_solid",
+                "title": "Academy Dashboard",
+                "webUrl": "https://edu.xquare.net/dashboard/",
+                "buttons": [],
+                "enableClose": true,
+                "webViewMode": true,
+                "bannerHeight": 15,
+                "useTabScreen": false,
+                "enableDivider": false,
+                "enableForward": true,
+                "requiredLogin": false,
+                "enableBackward": true,
+                "iconFontFamily": "CupertinoIcons",
+                "buttonAlignment": "centerLeft"
+            }
+        },
+        "backgroundColor": null,
+        "backgroundImage": null}}
